@@ -221,8 +221,7 @@ def part4_subset_analysis(conn):
 
     print("\nPart 4 results have been saved in the outputs directory.")
 
-    print(
-        "\n The average B-cell count for male melanoma "f"responders at time 0: {average_b_cells:.2f}")    
+    print("\n The average B-cell count for male melanoma "f"responders at time 0: {average_b_cells:.2f}")    
     return (df_baseline, project_counts, response_counts, sex_counts, average_b_cells)
 
 

@@ -13,7 +13,7 @@ My dashboard displays the results from Parts 2, 3, and 4 of the analysis.
 ## Project Files List
 
 ```text
-Teiko-Teiknical/
+Immune-Cell-Trial-Analysis/
 ├── data/
 │   └── cell-count.csv
 ├── outputs/
@@ -282,4 +282,4 @@ python -m streamlit run dashboard.py
 
 ## Repository Link
 
-[View my GitHub repository](https://github.com/Jaylin2436chen/Teiko-Teiknical)
+[View my GitHub repository](https://github.com/Jaylin2436chen/Immune-Cell-Trial-Analysis)
